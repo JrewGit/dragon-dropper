@@ -1,0 +1,13 @@
+.wrapper {
+  padding-top: 50px;
+  background-image: url("https://images7.alphacoders.com/677/thumb-1920-677266.png");
+  height: 100vh;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  font-family: 'Rock Salt', cursive;
+  }
+  
